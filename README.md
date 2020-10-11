@@ -6,15 +6,15 @@ This was a project to create a portfolio page, which displays professional infor
 
 # Installation
 
-To access the webpage, you can click to the following link (). If you have successfully reached the webpage, you will see the below screen:
+To access the webpage, you can click to the following link (https://ftrcafekundera.github.io/02-week/). If you have successfully reached the webpage, you will see the below screen:
 
-IMG 1
+![Contact](https://user-images.githubusercontent.com/71603259/95669908-62a36a80-0b53-11eb-9815-454c1b3748b9.GIF)
 
 Once you have arrived at the initial webpage (Contact), you can navigate to the other webpages (About Me and Portfolio), which are photographed below.
 
-IMG 2
+![About Me](https://user-images.githubusercontent.com/71603259/95669913-718a1d00-0b53-11eb-854b-e3bfc3cf6a15.GIF)
 
-IMG 3
+![Portfolio](https://user-images.githubusercontent.com/71603259/95669919-7c44b200-0b53-11eb-9927-526642f58647.GIF)
 
 # Usage
 
