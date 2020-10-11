@@ -2,7 +2,7 @@
 
 # Description / Motivation
 
-This was a project to create a portfolio page, which displays professional information, links to social media platforms and personal websites (e.g., LinkedIn and GitHub), as well as a portfolio for projects. The website has a responsive layout, which ensures that web applications render well on a variety of devices and window or screen sizes. 
+This was a project to create a portfolio page that displays professional information, links to social media platforms and personal websites (e.g., LinkedIn and GitHub), as well as a portfolio for projects. The website has a responsive layout, which ensures that web applications render well on a variety of devices and window or screen sizes. 
 
 # Installation
 
@@ -10,7 +10,7 @@ To access the webpage, you can click to the following link (https://ftrcafekunde
 
 ![Contact](https://user-images.githubusercontent.com/71603259/95669908-62a36a80-0b53-11eb-9815-454c1b3748b9.GIF)
 
-Once you have arrived at the initial webpage (Contact), you can navigate to the other webpages (About Me and Portfolio), which are photographed below.
+Once you have arrived at the initial webpage (Contact), you can navigate to the other webpages (About Me and Portfolio) via the responsive navbar.
 
 ![About Me](https://user-images.githubusercontent.com/71603259/95669913-718a1d00-0b53-11eb-854b-e3bfc3cf6a15.GIF)
 
@@ -18,8 +18,8 @@ Once you have arrived at the initial webpage (Contact), you can navigate to the 
 
 # Usage
 
-This webpage spans three webpages: About Me, Contact, and Portfolio. Once an Internet user has arrived at one of the three aforementioned pages, they can then proceed to navigate between the pages by making use of the responsive navbar.
-For instance, if a user is on the Contacts page and wants to access the Portfolio, they can move their cursor to the navbar, click the Portfolio tab, and they will be redirected to the respective page.
+This webpage spans three webpages: About Me, Contact, and Portfolio. Once you have arrived at one of the three aforementioned pages, you can then proceed to navigate between the pages by making use of the responsive navbar, as noted above.
+For instance, if you are on the Contacts page and wants to access the Portfolio, you can move their cursor to the navbar, click the Portfolio tab, and you will then be redirected to the respective page.
 
 # Tech Used
 
