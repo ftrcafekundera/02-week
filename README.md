@@ -18,12 +18,12 @@ Once you have arrived at the initial webpage (Contact), you can navigate to the 
 
 # Usage
 
-This webpage spans three webpages: About Me, Contact, and Portfolio. Once you have arrived at one of the three aforementioned pages, you can then proceed to navigate between the pages by making use of the responsive navbar, as noted above.
+This portfolio consists of three webpages: About Me, Contact, and Portfolio. Once you have arrived at one of the three aforementioned pages, you can then proceed to navigate between the pages by making use of the responsive navbar, as noted above.
 For instance, if you are on the Contacts page and wants to access the Portfolio, you can move their cursor to the navbar, click the Portfolio tab, and you will then be redirected to the respective page.
 
 # Tech Used
 
-This webpage was created using HTML and CSS coding languages, using the Bootstrap CSS library for certain stylistic elements (e.g., navbar).
+This portfolio was created using HTML and CSS coding languages, using the Bootstrap CSS library for certain stylistic elements (e.g., navbar).
 
 # Additional Information
 
