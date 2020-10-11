@@ -2,7 +2,7 @@
 
 # Description / Motivation
 
-This was a project to create a portfolio page, which displays professional information, links to social media platforms and personal websites (e.g., LinkedIn and GitHub), as well as a portfolio for projects.
+This was a project to create a portfolio page, which displays professional information, links to social media platforms and personal websites (e.g., LinkedIn and GitHub), as well as a portfolio for projects. The website has a responsive layout, which ensures that web applications render well on a variety of devices and window or screen sizes. 
 
 # Installation
 
@@ -23,7 +23,7 @@ For instance, if a user is on the Contacts page and wants to access the Portfoli
 
 # Tech Used
 
-This webpage was created using HTML and CSS coding languages, using the Bootstrap database for certain stylistic elements (e.g., navbar).
+This webpage was created using HTML and CSS coding languages, using the Bootstrap CSS library for certain stylistic elements (e.g., navbar).
 
 # Additional Information
 
